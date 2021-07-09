@@ -323,6 +323,11 @@
          "value":"map.png"
         }, 
         {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/valdotr.github.io\/small-office\/map.json"
+        }, 
+        {
          "name":"mapName",
          "type":"string",
          "value":"Small office"
