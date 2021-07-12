@@ -310,12 +310,12 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"CC-BY-SA 3.0:\n - http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/\n - See the file: cc-by-sa-3.0.txt\nGNU GPL 3.0:\n - http:\/\/www.gnu.org\/licenses\/gpl-3.0.html\n - See the file: gpl-3.0.txt\n\nAssets from: hello@workadventu.re"
+         "value":"CC-BY-SA 3.0:\n - http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/\n - See the file: cc-by-sa-3.0.txt\nGNU GPL 3.0:\n - http:\/\/www.gnu.org\/licenses\/gpl-3.0.html\n - See the file: gpl-3.0.txt\n\nTilesets: workadventu.re, https:\/\/limezu.itch.io\/"
         }, 
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"An office designed for startups and small companies. With up to 25 sits, some informal spaces and a meeting room for important meetings!"
+         "value":"An office designed for startups and small companies. With up to 25 sits, some informal spaces and a meeting room for important meetings!\nAnd no you are not dreaming there are indeed 2 kitchens!"
         }, 
         {
          "name":"mapImage",
